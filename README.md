@@ -1,2 +1,2 @@
-# github_lecture_sample
+# github_lecture_samples
 Hello world!!!
