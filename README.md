@@ -1,2 +1,2 @@
 # github_lecture_samples
-Hello world!!!
+GitHub講習会で使用する練習用Repo
